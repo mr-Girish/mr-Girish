@@ -72,5 +72,3 @@
 </p>
 
 ---
-
-> 🧠 "Code smart. Scale fast. Ship often." – That’s my mantra.
