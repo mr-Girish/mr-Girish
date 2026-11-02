@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Fullstack Developer | MERN | Next.js | AWS | DevOps | Cloud Native Enthusiast</h3>
 
 <p align="center">
-✨ I build modern, scalable, and cloud-ready web applications with a strong focus on performance, maintainability, and user experience. With <strong>3.7+ years of professional experience</strong>, I specialize in end-to-end software delivery using technologies like <strong>React.js, Next.js, Node.js, TypeScript, and MongoDB</strong>. 
+✨ I build modern, scalable, and cloud-ready web applications with a strong focus on performance, maintainability, and user experience. With <strong>6+ years of professional experience</strong>, I specialize in end-to-end software delivery using technologies like <strong>React.js, Next.js, Node.js, TypeScript, and MongoDB</strong>. 
 </p>
 
 <p align="center">
